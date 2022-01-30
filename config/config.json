@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x90445E7Fb55703dC1B4484D4B13C10f589687D1F",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x90445E7Fb55703dC1B4484D4B13C10f589687D1F",
+  "NETWORK": {
+    "NAME": "Rinkeby",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "The Masked Bartenders",
+  "SYMBOL": "TMB",
+  "MAX_SUPPLY": 50,
+  "WEI_COST": 20000000000000000,
+  "DISPLAY_COST": 0.02,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/nerdy-coder-clones",
+  "SHOW_BACKGROUND": true
+}
